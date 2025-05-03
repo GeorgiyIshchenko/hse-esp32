@@ -1,3 +1,8 @@
+# PlatformIO development
+
+.pio
+.vscode
+
 # Prerequisites
 *.d
 
